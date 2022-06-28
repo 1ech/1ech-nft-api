@@ -1,4 +1,4 @@
-# PancakeSwap NFT Marketplace API
+# 1ech NFT Marketplace API
 
 Serverless API implementation for PancakeSwap NFT Marketplace
 
